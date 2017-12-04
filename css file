@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-image: url(images/1.jpg);
+	margin: 0 100px;
+	padding: 0;
+	font-family: arial;
+}
+
+.nav {
+	background-color: black;
+	color: #D7F7FC;
+	list-style: none;
+	text-align: center;
+	margin: 0px;
+	padding: 20px 0px 20px 0px;
+	font-size: 15px
+}
+	
+.nav > li {
+	display: inline-block;
+	padding-right: 50px  ;
+	padding-top: 10px;
+}
+
+.main_header > .banner {
+	float: right
+}
+
+.main_header > .nomo {
+	float: left;
+}
+	
+.article {
+	background-color: white;
+	position: fixed;
+	margin: 0px 100px 0px 0px;
+	
+}
+
+.write {
+	
+}
