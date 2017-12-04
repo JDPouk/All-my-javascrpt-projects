@@ -35,6 +35,7 @@ body {
 	background-color: white;
 	position: fixed;
 	margin: 0px 100px 0px 0px;
+	padding-bottom: 400px;
 	
 }
 
